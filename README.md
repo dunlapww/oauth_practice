@@ -3,4 +3,4 @@ This simple app demonstrates the functionalty of GitHub Oauth.  A visitor can lo
 
 <img src = “readme_images/oauth_demo.gif” width = 500> 
 
-![Farmers Market Finder Demo](readme_images/oauth_.gif)
+![Farmers Market Finder Demo](readme_images/oauth_demo.gif)
